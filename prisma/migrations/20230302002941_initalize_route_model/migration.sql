@@ -1,0 +1,4 @@
+-- CreateTable
+CREATE TABLE "Route" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT
+);
