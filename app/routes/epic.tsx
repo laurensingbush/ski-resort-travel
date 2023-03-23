@@ -1,7 +1,6 @@
 export default function Epic() {
   return (
-    <div>
-      EPIC
+    <div className="h-full">
     </div>
   )
 }
